@@ -1,0 +1,37 @@
+
+msgid "Finished indexing"
+msgstr "Dizine ekleme tamamlandı"
+
+msgid "Continue Indexing"
+msgstr "Dizine Devam Et"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Search Hero"
+msgstr "Kahraman Ara"
+
+msgid "Start Indexing"
+msgstr "Dizinlemeyi Başlat"
+
+msgid "View Details"
+msgstr "Detayları Görüntüle"
+
+msgid "Indexed documents %d"
+msgstr "Dizine eklenen belgeler %d"
+
+msgid "Indexing Progress: "
+msgstr "Dizinleme İlerlemesi:"
+
+msgid "Indexing"
+msgstr "Dizinleme"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "Bu eklenti, WordPress varsayılan arama işlevini çok daha hızlı ve daha alakalı arama sonuçlarıyla değiştirir."
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "WordPress içeriğinizi aranabilir hale getirmek için lütfen aşağıdaki dizin oluşturma işlemini başlatın. Dizin oluşturma tamamlanana kadar bu sayfada kalın."
+
+msgid "Rebuild Index"
+msgstr "Dizini Yeniden Oluştur"
+

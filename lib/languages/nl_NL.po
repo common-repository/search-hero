@@ -1,0 +1,37 @@
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Indexed documents %d"
+msgstr "Geïndexeerde documenten %d"
+
+msgid "Indexing"
+msgstr "Indexeren"
+
+msgid "Finished indexing"
+msgstr "Indexeren voltooid"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "Deze plugin vervangt de standaard zoekfunctie van WordPress door een veel snellere en relevantere zoekresultaten."
+
+msgid "Search Hero"
+msgstr "Zoekheld"
+
+msgid "Rebuild Index"
+msgstr "Index Herbouwen"
+
+msgid "View Details"
+msgstr "Details bekijken"
+
+msgid "Start Indexing"
+msgstr "Indexeren starten"
+
+msgid "Indexing Progress: "
+msgstr "Indexeeringsvoortgang:"
+
+msgid "Continue Indexing"
+msgstr "Doorgaan met indexeren"
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "Om uw WordPress-inhoud doorzoekbaar te maken, start u hieronder het indexeringsproces. Blijf op deze pagina tot de indexering is voltooid."
+

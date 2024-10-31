@@ -1,0 +1,68 @@
+# Copyright (C) 2024 Search Hero
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Search Hero 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/search-hero\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-11T14:30:24-06:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: search-hero\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: search-hero.php
+#: lib/searchHero.php:262
+msgid "Search Hero"
+msgstr ""
+
+#. Description of the plugin
+#: search-hero.php
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr ""
+
+#: lib/admin_helper.php:48
+msgid "View Details"
+msgstr ""
+
+#: lib/admin_helper.php:95
+msgid "Settings"
+msgstr ""
+
+#. translators: %d is the number of indexed documents
+#: lib/searchHero.php:201
+msgid "Indexed documents %d"
+msgstr ""
+
+#: lib/searchHero.php:206
+msgid "Finished indexing"
+msgstr ""
+
+#: lib/searchHero.php:269
+msgid "Indexing"
+msgstr ""
+
+#: lib/views/indexing.php:9
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr ""
+
+#: lib/views/indexing.php:14
+msgid "Indexing Progress: "
+msgstr ""
+
+#: lib/views/indexing.php:24
+msgid "Start Indexing"
+msgstr ""
+
+#: lib/views/indexing.php:26
+msgid "Continue Indexing"
+msgstr ""
+
+#: lib/views/indexing.php:28
+msgid "Rebuild Index"
+msgstr ""

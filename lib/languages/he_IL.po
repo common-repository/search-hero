@@ -1,0 +1,37 @@
+
+msgid "Search Hero"
+msgstr "חיפוש גיבור"
+
+msgid "Finished indexing"
+msgstr "סיום אינדוקס"
+
+msgid "Start Indexing"
+msgstr "התחל אינדוקס"
+
+msgid "Indexing Progress: "
+msgstr "התקדמות אינדקס:"
+
+msgid "Indexing"
+msgstr "אינדקסינג"
+
+msgid "Continue Indexing"
+msgstr "המשך אינדקסציה"
+
+msgid "View Details"
+msgstr "הצגת פרטים"
+
+msgid "Rebuild Index"
+msgstr "בנה מחדש את האינדקס"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "תוסף זה מחליף את חיפוש ברירת המחדל של וורדפרס בחיפוש מהיר יותר עם תוצאות רלוונטיות יותר."
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "כדי להפוך את תוכן ה-WordPress לחיפוש, אנא התחילו את תהליך האינדוקס למטה. הישארו בדף זה עד שהאינדוקס יושלם."
+
+msgid "Indexed documents %d"
+msgstr "מסמכים מאונדקסים %d"
+

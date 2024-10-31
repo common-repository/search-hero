@@ -1,0 +1,37 @@
+
+msgid "Indexed documents %d"
+msgstr "Indeksoituja asiakirjoja %d"
+
+msgid "Search Hero"
+msgstr "Etsi sankari"
+
+msgid "Finished indexing"
+msgstr "Indeksointi valmis"
+
+msgid "Indexing Progress: "
+msgstr "Indeksoinnin eteneminen:"
+
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+msgid "Rebuild Index"
+msgstr "Uudelleenrakenna indeksi"
+
+msgid "Continue Indexing"
+msgstr "Jatka indeksointia"
+
+msgid "Indexing"
+msgstr "Indeksointi"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Start Indexing"
+msgstr "Aloita indeksointi"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "Tämä laajennus korvaa WordPressin oletushaun huomattavasti nopeammilla ja osuvammilla hakutuloksilla."
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "Jotta WordPress-sisältösi olisi haettavissa, aloita indeksointiprosessi alla. Pysy tällä sivulla, kunnes indeksointi on valmis."
+

@@ -1,0 +1,37 @@
+
+msgid "Finished indexing"
+msgstr "इंडेक्सिंग समाप्त हुई"
+
+msgid "Continue Indexing"
+msgstr "इंडेक्सिंग जारी रखें"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "Indexed documents %d"
+msgstr "इंडेक्स किए गए दस्तावेज़ %d"
+
+msgid "View Details"
+msgstr "विवरण देखें"
+
+msgid "Start Indexing"
+msgstr "इंडेक्सिंग शुरू करें"
+
+msgid "Rebuild Index"
+msgstr "अनुक्रमणिका पुनःनिर्माण करें"
+
+msgid "Search Hero"
+msgstr "सर्च हीरो"
+
+msgid "Indexing"
+msgstr "इंडेक्सिंग"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "यह प्लगइन वर्डप्रेस की डिफॉल्ट खोज को एक बहुत तेज़ और अधिक प्रासंगिक खोज परिणामों के साथ बदल देता है।"
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "अपने वर्डप्रेस कंटेंट को खोजने योग्य बनाने के लिए, कृपया नीचे दिए गए इंडेक्सिंग प्रक्रिया को प्रारंभ करें। इंडेक्सिंग पूरी होने तक इस पृष्ठ पर बने रहें।"
+
+msgid "Indexing Progress: "
+msgstr "इंडेक्सिंग प्रगति:"
+

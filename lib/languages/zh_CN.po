@@ -1,0 +1,37 @@
+
+msgid "Indexing"
+msgstr "索引"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Rebuild Index"
+msgstr "重建索引"
+
+msgid "Search Hero"
+msgstr "搜索英雄"
+
+msgid "View Details"
+msgstr "查看详情"
+
+msgid "Indexed documents %d"
+msgstr "已索引文档 %d"
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "要使您的 WordPress 内容可搜索，请在下面启动索引过程。在索引完成之前，请保持在此页面。"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "此插件用更快捷和更相关的搜索结果替换了WordPress默认搜索。"
+
+msgid "Finished indexing"
+msgstr "索引完成"
+
+msgid "Start Indexing"
+msgstr "开始索引"
+
+msgid "Indexing Progress: "
+msgstr "索引进度:"
+
+msgid "Continue Indexing"
+msgstr "继续索引"
+

@@ -1,0 +1,37 @@
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Indexing"
+msgstr "Indeksering"
+
+msgid "View Details"
+msgstr "Vis detaljer"
+
+msgid "Indexed documents %d"
+msgstr "Indekserede dokumenter %d"
+
+msgid "Search Hero"
+msgstr "Søg Helt"
+
+msgid "Finished indexing"
+msgstr "Færdig med at indeksere"
+
+msgid "Start Indexing"
+msgstr "Start indeksering"
+
+msgid "Continue Indexing"
+msgstr "Fortsæt indeksering"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "Denne plugin erstatter WordPress' standard søgning med en meget hurtigere og mere relevant søgeresultat."
+
+msgid "Indexing Progress: "
+msgstr "Indekseringsfremdrift:"
+
+msgid "Rebuild Index"
+msgstr "Genopbyg indeks"
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "For at gøre dit WordPress-indhold søgbart, skal du starte indekseringsprocessen nedenfor. Bliv på denne side, indtil indekseringen er færdig."
+

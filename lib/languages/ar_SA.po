@@ -1,0 +1,37 @@
+
+msgid "Indexing"
+msgstr "الفهرسة"
+
+msgid "Rebuild Index"
+msgstr "إعادة بناء الفهرس"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Continue Indexing"
+msgstr "متابعة الفهرسة"
+
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+msgid "Finished indexing"
+msgstr "اكتمل الفهرسة"
+
+msgid "Indexing Progress: "
+msgstr "تقدم الفهرسة:"
+
+msgid "Start Indexing"
+msgstr "بدء الفهرسة"
+
+msgid "Indexed documents %d"
+msgstr "المستندات المفهرسة %d"
+
+msgid "This plugin replaces WordPress default search with a much faster and more relevant search results."
+msgstr "يقوم هذا المكون الإضافي باستبدال البحث الافتراضي في ووردبريس ببحث أسرع بكثير ونتائج أكثر صلة."
+
+msgid "Search Hero"
+msgstr "بحث هيرو"
+
+msgid "To make your WordPress content searchable, please initiate the indexing process below. Stay on this page until the indexing is complete."
+msgstr "لجعل محتوى ووردبريس قابلاً للبحث، يرجى بدء عملية الفهرسة أدناه. ابقَ على هذه الصفحة حتى تكتمل الفهرسة."
+
